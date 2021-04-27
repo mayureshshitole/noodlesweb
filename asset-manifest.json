@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/noodlesweb/static/css/main.416da378.chunk.css",
+    "main.js": "/noodlesweb/static/js/main.4626d12c.chunk.js",
+    "main.js.map": "/noodlesweb/static/js/main.4626d12c.chunk.js.map",
+    "runtime-main.js": "/noodlesweb/static/js/runtime-main.df4bb86d.js",
+    "runtime-main.js.map": "/noodlesweb/static/js/runtime-main.df4bb86d.js.map",
+    "static/css/2.47f28a85.chunk.css": "/noodlesweb/static/css/2.47f28a85.chunk.css",
+    "static/js/2.314f95be.chunk.js": "/noodlesweb/static/js/2.314f95be.chunk.js",
+    "static/js/2.314f95be.chunk.js.map": "/noodlesweb/static/js/2.314f95be.chunk.js.map",
+    "static/js/3.34819b3f.chunk.js": "/noodlesweb/static/js/3.34819b3f.chunk.js",
+    "static/js/3.34819b3f.chunk.js.map": "/noodlesweb/static/js/3.34819b3f.chunk.js.map",
+    "index.html": "/noodlesweb/index.html",
+    "static/css/2.47f28a85.chunk.css.map": "/noodlesweb/static/css/2.47f28a85.chunk.css.map",
+    "static/css/main.416da378.chunk.css.map": "/noodlesweb/static/css/main.416da378.chunk.css.map",
+    "static/js/2.314f95be.chunk.js.LICENSE.txt": "/noodlesweb/static/js/2.314f95be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df4bb86d.js",
+    "static/css/2.47f28a85.chunk.css",
+    "static/js/2.314f95be.chunk.js",
+    "static/css/main.416da378.chunk.css",
+    "static/js/main.4626d12c.chunk.js"
+  ]
+}
